@@ -157,6 +157,3 @@ Using a deterministic **Simulated Sensor Data Generator**, the system continuous
 
 ---
 
-## 📄 License
-
-This project was developed for academic and cloud architecture prototyping purposes. Feel free to fork and adapt it for educational or research use.
